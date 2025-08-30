@@ -38,6 +38,13 @@ int main()
 		isClutch = 0;
 		isShiftUp = 0;
 		isShiftDown = 0;
-
+		
 	}
 }
+//     In development:
+		//1. Add timer method
+		//2. Add score method
+		//3. If 250 km/h reached - end game. Set score in time and RPM
+		//4. Sort scores, input names for save
+        //5. Online scores
+        //6. Lan game
